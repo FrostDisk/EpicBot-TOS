@@ -15,10 +15,25 @@ También puedes consultar estas versiones publicadas en HTML:
 - [Política de Privacidad (HTML)](https://www.frostdisk.com/epicbot/privacy-policy.html)
 - [Términos de Servicio (HTML)](https://www.frostdisk.com/epicbot/terms-of-service.html)
 
+## Conversión a HTML
+
+Los documentos están escritos en formato
+[AsciiDoc](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/).
+Puedes convertirlos a HTML usando la herramienta `asciidoctor`.
+
+Ejemplo de conversión:
+
+```bash
+asciidoctor privacy-policy.adoc
+asciidoctor terms-of-service.adoc
+```
+
 ## Licencia
 
 El contenido de este repositorio está disponible bajo la licencia
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Puedes reutilizar, modificar o adaptar los documentos siempre que otorgues el crédito correspondiente a FrostDisk.
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Puedes reutilizar, modificar o adaptar los documentos siempre que otorgues el
+crédito correspondiente a FrostDisk.
 
 ## Contacto
 
