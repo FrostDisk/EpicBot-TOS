@@ -1,0 +1,57 @@
+= Términos de Servicio de EpicBot
+FrostDisk
+v1.0, 2025-06-23
+
+Estos Términos de Servicio regulan el uso de EpicBot, un bot de Discord
+desarrollado por FrostDisk. Al invitar y utilizar este bot en un servidor, se
+considera que el propietario del servidor y sus miembros aceptan las condiciones
+descritas en este documento.
+
+== 1. Alcance del servicio
+
+* EpicBot es un proyecto privado y experimental.
+* El bot solo puede instalarse mediante invitación directa, autorizada por el
+  desarrollador o colaboradores del proyecto.
+* No se ofrece como servicio público, ni se distribuye en plataformas como
+  top.gg.
+
+== 2. Responsabilidad del servidor
+
+* El uso de EpicBot en un servidor es responsabilidad exclusiva del propietario
+  de dicho servidor.
+* Los usuarios del servidor deben respetar las reglas internas del mismo.
+  FrostDisk no tiene control ni responsabilidad sobre la administración de
+  servidores externos.
+
+== 3. Condiciones de uso
+
+* Está prohibido el uso de EpicBot con fines maliciosos, abusivos o ilegales.
+* El bot no debe ser modificado, descompilado o utilizado de manera que vulnere
+  sus funciones o el entorno de Discord.
+* Se espera un uso razonable del bot, especialmente en términos de carga o
+  automatización.
+
+== 4. Servidor oficial
+
+En el servidor oficial de FrostDisk, donde EpicBot opera de forma más activa,
+se aplican reglas específicas que deben ser respetadas por todos los
+participantes. Estas reglas están disponibles dentro del mismo servidor.
+
+== 5. Cambios en el servicio
+
+* FrostDisk se reserva el derecho de modificar, suspender o descontinuar el
+  funcionamiento de EpicBot en cualquier momento, sin previo aviso.
+* También se puede revocar el acceso al bot a cualquier servidor o usuario que
+  infrinja estos términos.
+
+== 6. Limitación de responsabilidad
+
+* EpicBot se ofrece "tal cual", sin garantías de funcionamiento continuo, sin
+  errores o adecuado a propósitos específicos.
+* FrostDisk no será responsable por pérdidas, interrupciones o conflictos
+  derivados del uso del bot.
+
+== 7. Contacto
+
+Para dudas o consultas, por favor dirígete al servidor oficial de EpicBot
+visitando https://discord.gg/012m4cEfADeHC6oOt

@@ -1,0 +1,64 @@
+= Política de Privacidad de EpicBot
+FrostDisk
+v1.0, 2025-06-23
+
+Este documento describe cómo se recopila, utiliza y protege la información en
+EpicBot, un bot de Discord desarrollado por FrostDisk.
+
+== 1. Información que recopilamos
+
+EpicBot puede recopilar y almacenar información básica y no sensible con fines
+estadísticos y de mejora del servicio, incluyendo:
+
+* IDs de usuario y de servidor (solo como referencia numérica).
+* IDs de mensajes generados por el bot (no se almacena contenido de mensajes de
+  usuarios).
+* Registro de comandos utilizados e interacciones con el bot.
+* Datos de respuesta desde la API de Twitch, usados exclusivamente para
+  funcionalidad dentro del bot.
+
+[IMPORTANT]
+====
+No se almacenan mensajes escritos por usuarios, roles, nombres de canales, ni
+otra información personal o sensible.
+====
+
+== 2. Uso de la información
+
+La información recopilada se utiliza únicamente para:
+
+* Mejorar el rendimiento y funcionalidades del bot.
+* Realizar análisis internos de uso (como estadísticas de comandos).
+* Facilitar la interacción entre la versión Discord y Twitch de EpicBot.
+
+[NOTE]
+====
+No se comparte la información con terceros, ni se utiliza para publicidad,
+venta, ni ningún tipo de distribución externa.
+====
+
+== 3. Almacenamiento y seguridad
+
+Los datos se almacenan de forma segura en servidores privados administrados por
+FrostDisk. El acceso a dichos servidores está restringido exclusivamente a
+miembros autorizados del equipo de desarrollo.
+
+== 4. Derechos del usuario
+
+Cualquier usuario puede solicitar la eliminación de su información o limitar su
+uso comunicándose directamente con el equipo en el servidor oficial de EpicBot.
+
+Aunque no existen comandos automatizados para optar por no ser referenciado, se
+atenderán las solicitudes de forma manual con responsabilidad.
+
+== 5. Disponibilidad del bot
+
+EpicBot no está publicado en plataformas como top.gg ni está disponible de forma
+pública. Solo se puede agregar a servidores privados mediante invitación
+directa, bajo consentimiento voluntario de los administradores de dichos
+servidores.
+
+== 6. Contacto
+
+Para cualquier consulta relacionada con esta política, por favor dirígete al
+servidor oficial de EpicBot visitando https://discord.gg/012m4cEfADeHC6oOt
